@@ -1,4 +1,4 @@
 {
-  "version": "1.0",
-  "changelog": "<div class=\"xf-changelog-item\"><div class=\"xf-changelog-version\">Версия 1.0</div><div class=\"xf-changelog-date\">2024-01-15</div><div class=\"xf-changelog-changes\"><ul><li>Добавлена система автообновлений</li><li>Добавлены уведомления о новых версиях</li><li>Добавлено окно с чейнджлогом</li><li>Добавлен импорт/экспорт макросов</li><li>Полностью переработан интерфейс настроек</li><li>Улучшена стабильность работы</li></ul></div></div><div class=\"xf-changelog-item\"><div class=\"xf-changelog-version\">Версия 1.0.0</div><div class=\"xf-changelog-date\">2024-01-10</div><div class=\"xf-changelog-changes\"><ul><li>Первоначальный релиз</li><li>Базовые функции макросов</li><li>Автоотправка сообщений</li><li>Автоархивация тикетов</li></ul></div></div>"
+  "version": "1.2",
+  "changelog": "ну пуста епта"
 }
